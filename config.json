@@ -1,6 +1,7 @@
 {
   "sources": {
     "mediamarkt": "https://www.mediamarkt.at/en/search?q=47+inch+tv",
-    "geizhals": "https://geizhals.at/?fs=47+inch+tv"
+    "geizhals": "https://geizhals.at/?fs=47+inch+tv",
+    "willhaben": "https://www.willhaben.at/iad/pc-und-notebooks/?sort=priceAsc"
   }
 }
