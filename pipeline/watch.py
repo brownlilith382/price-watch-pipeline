@@ -29,6 +29,8 @@ def run(config_path: str, db_path: str):
                         name, r["id"], r.get("title"), r.get("price"), r.get("url"),
                     ])
             print(f"{name}: {len(changed)} changed of {len(rows)} fetched")
+        else:
+            print(f"{name}: no changes ({len(rows)} fetched)")
 
 
 if __name__ == "__main__":
